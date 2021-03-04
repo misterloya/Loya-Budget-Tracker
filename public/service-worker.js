@@ -19,7 +19,7 @@ self.addEventListener("install", function (evt) {
   // pre cache image data
   const cacheImageData = async () => {
     const cache = await caches.open(DATA_CACHE_NAME);
-    return cache.add("/api/images");
+    return cache.add("/api/transaction");
   }
   
   // pre cache all static assets
