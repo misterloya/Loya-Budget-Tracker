@@ -16,13 +16,12 @@ This application utilizes offline and online capability to store data that a use
 
 ## Usage 
 
-Deployed To Heroku at: [https://loya-eat-da-burger.herokuapp.com/](https://loya-eat-da-burger.herokuapp.com/).
+Deployed To Heroku at: [https://loya-budget-tracker.herokuapp.com/](https://loya-budget-tracker.herokuapp.com/).
 
 
 ## Screenshot
 
 
-![Front Page Gif](./public/Screenshot-Gif-Eat-Da-Burger.gif)
 
 ## Questions
 
